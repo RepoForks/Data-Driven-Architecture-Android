@@ -16,6 +16,4 @@ import java.util.concurrent.TimeUnit;
  */
 public class FeedStreamServiceTest extends FeedStreamServiceCache {
 
-
-
 }
